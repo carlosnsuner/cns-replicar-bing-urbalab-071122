@@ -1,4 +1,156 @@
 
 body{
     background-color: aqua;
+    margin: 0px;
+}
+
+.container{
+    background-image: url("../img/fondobing.jpg");
+    background-repeat: no-repeat;
+    background-size: 110%;
+    /* background-color: rgb(231, 183, 183); */
+    height: 100vh;
+}
+
+/* cabecera */
+.header{
+    background-color: green;
+    height: 7vh;
+    display: flex;
+    
+}
+
+/* contenido */
+.main{
+    /* background-color: rgb(199, 196, 196); */
+    height: 73vh;
+    display: flex;
+    justify-content:center;
+
+} 
+
+.input{
+    border-radius: 25px;
+    width: 40vw;
+    height: 7vh;
+  
+
+ }
+ .buscador{
+    width: 60vw;
+    height: 10vh;
+    font-size: medium;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 140px;
+    
+ }
+
+
+
+/* pie de página */
+.footer{
+    /* background-color: blue; */
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.header-01{
+    background-color: rgb(224, 207, 240);
+    width: 25vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-header{
+    width: 80%;
+    height: 80%;
+}
+
+.header-02{
+    background-color: rgb(153, 125, 180);
+    width: 55vw;
+    display: flex;
+}
+
+.header-02-01{
+    background-color: chartreuse;
+    width: 27.5vw;
+    height: 7vh;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    text-indent: 10pt;
+    
+}
+
+.header-02-02{
+    background-color: cyan;
+    width: 27.5vw;
+    height: 7vh;
+    display: flex;
+    align-items: center;
+    justify-content:flex-end;
+    text-indent: 10pt;
+    
+}
+
+.main{
+
+    
+    
+
+}
+
+
+.header-03{
+    background-color: rgb(73, 61, 85);
+    width: 30vw;
+}
+
+.footer-01{
+    /* background-color: yellowgreen; */
+    height: 20vh;
+    width: 20vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.footer-02{
+    /* background-color: yellowgreen; */
+    height: 20vh;
+    width: 20vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-03{
+    /* background-color: yellowgreen; */
+    height: 20vh;
+    width: 20vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-04{
+    /* background-color: yellowgreen; */
+    height: 20vh;
+    width: 20vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-05{
+    /* background-color: yellowgreen; */
+    height: 20vh;
+    width: 20vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
