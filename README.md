@@ -3,8 +3,19 @@
 
 ***
 
-### Semana 02 - (Retos Layout CSS) - Replicar web de Google.
+### Semana 02 - (Retos Layout CSS) - Replicar web de Bing.
 
-Reto: Eres capaz de replicar el layout princial del buscador de Google...
+Reto: Eres capaz de replicar el layout princial del buscador de Bing...
 
-![Ejercicio]()
+![Ejercicio](https://github.com/carlosnsuner/cns-replicar-goolge-urbalab-s04-071122/raw/master/img/google.PNG)
+
+
+***
+
+Autor ✒️:
+
+Carlos Navarro Suñer. https://www.linkedin.com/in/carlosnsuner/
+
+Licencia 📄
+
+Este proyecto está bajo la Licencia (MIT License) - mira el archivo LICENSE para detalles.
