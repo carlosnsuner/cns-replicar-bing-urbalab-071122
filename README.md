@@ -7,7 +7,7 @@
 
 Reto: Eres capaz de replicar el layout princial del buscador de Bing...
 
-![Ejercicio](https://github.com/carlosnsuner/cns-replicar-goolge-urbalab-s04-071122/raw/master/img/bingcaptura.png)
+![Ejercicio](https://github.com/carlosnsuner/cns-replicar-bing-urbalab-071122/raw/master/img/bingcaptura.PNG)
 
 
 ***
